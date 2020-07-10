@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.1.0)
+  - RappleProgressHUD (4.1)
+  - SDWebImage (5.8.3):
+    - SDWebImage/Core (= 5.8.3)
+  - SDWebImage/Core (5.8.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - RappleProgressHUD
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - RappleProgressHUD
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  RappleProgressHUD: f29bc5dc5f9834c2caa9c2ae21ba11f3ff2b5a85
+  SDWebImage: 112503ec94a5a2a41869503844a15e8d8f1ead5c
+
+PODFILE CHECKSUM: b8100eadc09f182867c51c7534ba775176407a4b
+
+COCOAPODS: 1.8.4
